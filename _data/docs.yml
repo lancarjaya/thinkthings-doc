@@ -1,4 +1,7 @@
 - title: Getting Started
   docs:
   - home
-  - test
+- title: Instalasi The Things Stack
+  docs:
+  - persiapan
+  - instalasi-docker
