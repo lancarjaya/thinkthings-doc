@@ -1,5 +1,5 @@
 ---
-title: persiapan
+title: Persiapan
 permalink: /docs/persiapan/
 ---
 
