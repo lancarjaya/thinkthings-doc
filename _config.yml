@@ -6,6 +6,13 @@ description: >
 remote_theme: aksakalli/jekyll-doc-theme@gh-pages
 bootwatch: Darkly
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+  - README.md
+
 defaults:
 - scope:
     path: _posts
