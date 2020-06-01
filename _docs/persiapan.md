@@ -1,6 +1,6 @@
 ---
-title: test
-permalink: /docs/test/
+title: persiapan
+permalink: /docs/persiapan/
 ---
 
 Contoh doc
