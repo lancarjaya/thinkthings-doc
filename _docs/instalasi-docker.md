@@ -6,7 +6,7 @@ permalink: /docs/instalasi-docker/
 # Instalasi Docker
 sebelum kita dapat memulai instalasi The Things Stack, kita terlebih dahulu harus install Docker Engine dan Docker Compose, adapun langkah-langkah instalasinya adalah sebagai berikut:
 
-> Langkah pad dokumentasi ini menggunakan OS Linux Ubuntu Server 18.04 LTS
+> Langkah pada dokumentasi ini menggunakan OS Linux Ubuntu Server 18.04 LTS
 
 ## Installasi Docker Engine
 Ada beberapa metode untuk dapat menginstall Docker Engine yaitu
